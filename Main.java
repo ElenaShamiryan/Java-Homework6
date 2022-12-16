@@ -28,5 +28,4 @@ public class Main {
         parametrsNotebook.put("ssd", ssd);
         return parametrsNotebook;
     }
-
 }
